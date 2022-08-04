@@ -67,20 +67,8 @@ sudo systemctl restart suid
 ```
 sudo systemctl stop suid
 ```
+<img src="https://github-readme-stats.vercel.app/api?username=kebapTest&show_icons=true&theme=highcontrast" align="left" width="450" height="350" >
 
-# Sorun yaşarsanız beni Telegram kanalı: https://t.me/SuiTurkish üzerinden etiketleyin . @Ruesandora kullanıcı adım.
-
-# Hesaplar:
-
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
-
-[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
-
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/RuesChat)
-
-[Discord](https://discord.gg/ruescommunity)
 
 
 
